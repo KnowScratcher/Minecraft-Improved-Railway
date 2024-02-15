@@ -1,0 +1,5 @@
+name: Minecraft_Improved_Railway
+version: 1.0.0-1.20.2
+author: Knowscratcher
+main: com.ks.mir.Mir
+api-version: 1.14
